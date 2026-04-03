@@ -255,7 +255,7 @@ The following improvements are included in the project:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/madhugowda-1819/Finance-Dashboard-Backend.git
 cd finance_dashboard_backend
 ```
 
